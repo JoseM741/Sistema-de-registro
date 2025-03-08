@@ -1,4 +1,4 @@
-<h1> Sistema de Registro </h1>
+<h1> Pruebe Inicial de GitHub </h1>
   
 - Estado del Proyecto: En Construcción.
 
